@@ -1,3 +1,3 @@
 # invie-github
 Tus mejores guitarras invie-sibles
-By @pltazi
+By @platzi
